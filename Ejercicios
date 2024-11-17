@@ -1,0 +1,18 @@
+# Álgebra Básica
+## Propiedades de las operaciones
+1. Propiedad conmutativa:
+   - `a + b = b + a`
+   - `a * b = b * a`
+
+2. Propiedad distributiva:
+   - `a * (b + c) = a * b + a * c`
+
+## Ejemplos
+- Factorización de un trinomio cuadrado perfecto:
+x² + 2ab + b² = (x + b)²
+
+
+## Ejemplos
+- **Calcular el área de un triángulo:**
+Si la base es 6 y la altura es 4:
+A = (base * altura) / 2 = (6 * 4) / 2 = 12
